@@ -9,4 +9,6 @@ Frontend do aplicativo de vendas usando Next.js, Spring Boot, React, TS, Tailswi
 <img src="https://github.com/bruno130187/minhas-vendas-nextjs-frontend/blob/main/minhas-vendas-next.png" />
 </p> 
 
+Link do projeto Backend: [https://github.com/bruno130187/minhas-vendas-nextjs-backend]
+
 Segue meu LinkedIn: [https://www.linkedin.com/in/bruno-araujo-oficial/]
