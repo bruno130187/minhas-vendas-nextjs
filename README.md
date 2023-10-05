@@ -6,7 +6,7 @@ Frontend do aplicativo de vendas usando Next.js, Spring Boot, React, TS, Tailswi
 ### `npm run dev`
 
 <p align="center">
-<img src="https://github.com/bruno130187/hashtagJavascriptMagazine/blob/main/imagem-para-readme.png" />
+<img src="https://github.com/bruno130187/minhas-vendas-nextjs-frontend/blob/main/minhas-vendas-next.png" />
 </p> 
 
 Segue meu LinkedIn: [https://www.linkedin.com/in/bruno-araujo-oficial/]
